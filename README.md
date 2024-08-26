@@ -1,4 +1,4 @@
-# Web Application - Consulta de CEP
+# Consulta de CEP
 
 Esta é uma aplicação web simples que permite consultar endereços brasileiros a partir de um CEP usando a API **ViaCEP**. A aplicação foi desenvolvida com HTML, CSS e JavaScript.
 

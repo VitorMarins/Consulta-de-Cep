@@ -16,4 +16,5 @@ Esta é uma aplicação web simples que permite consultar endereços brasileiros
 
 ## Como Usar
 
-- **Entre no site da Aplicação** a seguir para usar a aplicação web vitormarins.github.io/Consulta-de-Cep/.
+- **Entre no site da Aplicação** a seguir para usar a aplicação web.
+- [Link da Aplicação Web](https://vitormarins.github.io/Consulta-de-Cep/).
